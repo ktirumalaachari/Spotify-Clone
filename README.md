@@ -32,4 +32,3 @@ GitHub: https://github.com/Tirumala28
 LinkedIn: https://www.linkedin.com/in/k-tirumala-achari-921106307
 
 X (Twitter): https://x.com/TiruAchari
-
