@@ -27,7 +27,7 @@ Once the Spotify clone is open in your browser, You can then click the play butt
 
 Social Profiles:
 
-GitHub: https://github.com/Tirumala28
+GitHub: https://github.com/ktirumalaachari
 
 LinkedIn: https://www.linkedin.com/in/k-tirumala-achari-921106307
 
