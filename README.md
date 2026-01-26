@@ -25,10 +25,27 @@ Once the Spotify clone is open in your browser, You can then click the play butt
 
 ![image](https://user-images.githubusercontent.com/48729682/222124168-70e510a9-0232-4c71-9939-cd7e8c512fcc.png)
 
-Social Profiles:
+- 📫 How to reach me: **ktirumalaachari@gmail.com**
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/k-tirumala-achari-921106307" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      height="30" width="40" />
+  </a>
 
-GitHub: https://github.com/ktirumalaachari
+  <a href="https://www.facebook.com/share/1ZWA17n3Tw/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      height="30" width="40" />
+  </a>
 
-LinkedIn: https://www.linkedin.com/in/k-tirumala-achari-921106307
+  <a href="https://www.instagram.com/k_tiru_mala_achari?igsh=cmFxeTY2ZDlxZnBv" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      height="30" width="40" />
+  </a>
 
-X (Twitter): https://x.com/TiruAchari
+  <a href="https://www.youtube.com/channel/UCMQHGNrEDGoK7StmUTnB7iw" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+      height="30" width="40" />
+  </a>
+</p>
